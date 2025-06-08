@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4a11d2e-8507-445b-a527-e0af33626e3a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/JackarooM1/bin/engine/board/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/JackarooM1/bin/engine/board/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackarooM1/bin/engine/board/Cell.class" beforeDir="false" afterPath="$PROJECT_DIR$/JackarooM1/bin/engine/board/Cell.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackarooM1/src/engine/board/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/JackarooM1/src/engine/board/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JackarooM1/src/engine/board/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/JackarooM1/src/engine/board/Cell.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ziad-bakry"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shabbeso/game_cs4",
+    "accountId": "764f599e-4091-48df-b014-fab7cf66401f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2vV1LY81JRXT01PQB88520TEjx5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Bakry",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Laptop/Desktop/Game Milestone 2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4a11d2e-8507-445b-a527-e0af33626e3a" name="Changes" comment="" />
+      <created>1744215371781</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744215371781</updated>
+    </task>
+    <servers />
+  </component>
+</project>
